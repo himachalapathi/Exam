@@ -1,0 +1,7 @@
+C:\Users\Amardeep\Desktop\Exam\Ado-net\Ado-net\obj\Debug\Ado-net.csproj.CoreCompileInputs.cache
+C:\Users\Amardeep\Desktop\Exam\Ado-net\Ado-net\bin\Debug\Ado-net.exe.config
+C:\Users\Amardeep\Desktop\Exam\Ado-net\Ado-net\bin\Debug\Ado-net.exe
+C:\Users\Amardeep\Desktop\Exam\Ado-net\Ado-net\bin\Debug\Ado-net.pdb
+C:\Users\Amardeep\Desktop\Exam\Ado-net\Ado-net\obj\Debug\Ado-net.exe
+C:\Users\Amardeep\Desktop\Exam\Ado-net\Ado-net\obj\Debug\Ado-net.pdb
+C:\Users\Amardeep\Desktop\Exam\Ado-net\Ado-net\obj\Debug\Ado-net.csprojAssemblyReference.cache

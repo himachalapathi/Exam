@@ -1,0 +1,6 @@
+C:\Users\Amardeep\Desktop\Exam\Networkprogramming\Client2\bin\Debug\Client2.exe.config
+C:\Users\Amardeep\Desktop\Exam\Networkprogramming\Client2\bin\Debug\Client2.exe
+C:\Users\Amardeep\Desktop\Exam\Networkprogramming\Client2\bin\Debug\Client2.pdb
+C:\Users\Amardeep\Desktop\Exam\Networkprogramming\Client2\obj\Debug\Client2.csproj.CoreCompileInputs.cache
+C:\Users\Amardeep\Desktop\Exam\Networkprogramming\Client2\obj\Debug\Client2.exe
+C:\Users\Amardeep\Desktop\Exam\Networkprogramming\Client2\obj\Debug\Client2.pdb

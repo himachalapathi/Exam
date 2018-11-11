@@ -1,0 +1,6 @@
+C:\Users\Amardeep\Desktop\Exam\Networkprogramming\Client1\bin\Debug\Client1.exe.config
+C:\Users\Amardeep\Desktop\Exam\Networkprogramming\Client1\bin\Debug\Client1.exe
+C:\Users\Amardeep\Desktop\Exam\Networkprogramming\Client1\bin\Debug\Client1.pdb
+C:\Users\Amardeep\Desktop\Exam\Networkprogramming\Client1\obj\Debug\Client1.csproj.CoreCompileInputs.cache
+C:\Users\Amardeep\Desktop\Exam\Networkprogramming\Client1\obj\Debug\Client1.exe
+C:\Users\Amardeep\Desktop\Exam\Networkprogramming\Client1\obj\Debug\Client1.pdb

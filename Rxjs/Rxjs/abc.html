@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html>
+
+<html >
+<head>
+    <script src="https://unpkg.com/@reactivex/rxjs@5.3.0/dist/global/Rx.js"></script>
+</head>
+<body>
+    <script>
+        var foo = Rx.Observable.create(function (observer) {
+            observable.filter(function (value) {
+                var k = true;
+                for (var i = 2; i <= 100; i++) {
+                    for (var j = 2; j < i; j++) {
+                        if (i % j == 0) {
+                            k = false;
+                        }
+                    }
+                    if (k) {
+                        document.writeln(i + " ");
+                    }
+                    k = true;
+                }
+            console.log('Hello');
+            observer.next("viuaya");
+            observer.next("enadu");
+            observer.next("samna");
+        });
+
+        foo.subscribe(function () {
+            console.log("vijaya");
+        });
+        foo.subscribe(function (y) {
+            console.log("enadu");
+        });
+        foo.subscribe(function (y) {
+            console.log("samna");
+        });
+</script>
+</body>
+</html>

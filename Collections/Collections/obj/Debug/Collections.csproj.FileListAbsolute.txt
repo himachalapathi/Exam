@@ -1,0 +1,7 @@
+C:\Users\Amardeep\Desktop\Exam\Collections\Collections\bin\Debug\Collections.exe.config
+C:\Users\Amardeep\Desktop\Exam\Collections\Collections\bin\Debug\Collections.exe
+C:\Users\Amardeep\Desktop\Exam\Collections\Collections\bin\Debug\Collections.pdb
+C:\Users\Amardeep\Desktop\Exam\Collections\Collections\obj\Debug\Collections.csprojAssemblyReference.cache
+C:\Users\Amardeep\Desktop\Exam\Collections\Collections\obj\Debug\Collections.csproj.CoreCompileInputs.cache
+C:\Users\Amardeep\Desktop\Exam\Collections\Collections\obj\Debug\Collections.exe
+C:\Users\Amardeep\Desktop\Exam\Collections\Collections\obj\Debug\Collections.pdb

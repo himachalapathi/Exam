@@ -1,0 +1,7 @@
+C:\Users\Amardeep\Desktop\Exam\Networkprogramming\Networkprogramming\bin\Debug\Networkprogramming.exe.config
+C:\Users\Amardeep\Desktop\Exam\Networkprogramming\Networkprogramming\bin\Debug\Networkprogramming.exe
+C:\Users\Amardeep\Desktop\Exam\Networkprogramming\Networkprogramming\bin\Debug\Networkprogramming.pdb
+C:\Users\Amardeep\Desktop\Exam\Networkprogramming\Networkprogramming\obj\Debug\Networkprogramming.csprojAssemblyReference.cache
+C:\Users\Amardeep\Desktop\Exam\Networkprogramming\Networkprogramming\obj\Debug\Networkprogramming.csproj.CoreCompileInputs.cache
+C:\Users\Amardeep\Desktop\Exam\Networkprogramming\Networkprogramming\obj\Debug\Networkprogramming.exe
+C:\Users\Amardeep\Desktop\Exam\Networkprogramming\Networkprogramming\obj\Debug\Networkprogramming.pdb
